@@ -17,9 +17,7 @@
 
 ![TeliShubham-12 github streak](https://github-readme-streak-stats.herokuapp.com/?user=TeliShubham-12&theme=radical&include_all_commits=true&count_private=true
   
-  
- 
-
 -----
 Credits: [TeliShubham-12](https://github.com/TeliShubham-12)
  
+  </div>
