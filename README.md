@@ -9,7 +9,7 @@
 <div>
   <samp>
     <h2 align="center">😎 you can reach me by:</h2>
-    <h2 align="center">you can reach me by:</h2>
+    
     <p align="center">
       <br/>
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
@@ -17,12 +17,11 @@
 
 
 
-![Shubham Teli github stats](https://github-readme-stats.vercel.app/api?username=Shubham Teli&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+![TeliShubham-12 github stats](https://github-readme-stats.vercel.app/api?username=TeliShubham-12&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-![Shubham Teli github streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubham Teli&theme=radical&include_all_commits=true&count_private=true)
+![TeliShubham-12 github streak](https://github-readme-streak-stats.herokuapp.com/?user=TeliShubham-12&theme=radical&include_all_commits=true&count_private=true)
 
  <div>
 
 -----
-Credits: [Shubham Teli](https://github.com/Shubham Teli)
-
+Credits: [TeliShubham-12](https://github.com/TeliShubham-12)
