@@ -14,3 +14,15 @@
       <br/>
       <a href="https://www.linkedin.com/in/azzar-budiyanto/" target="blank"><img align="center"
 @@ -45,110 +46,166 @@
+
+
+
+![Shubham Teli github stats](https://github-readme-stats.vercel.app/api?username=Shubham Teli&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+
+![Shubham Teli github streak](https://github-readme-streak-stats.herokuapp.com/?user=Shubham Teli&theme=radical&include_all_commits=true&count_private=true)
+
+ <div>
+
+-----
+Credits: [Shubham Teli](https://github.com/Shubham Teli)
+
