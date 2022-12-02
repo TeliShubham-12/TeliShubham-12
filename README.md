@@ -14,6 +14,9 @@
     </details>
   
 ![TeliShubham-12 github stats](https://github-readme-stats.vercel.app/api?username=TeliShubham-12&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+  
+  <br>
+  
 
 ![TeliShubham-12 github streak](https://github-readme-streak-stats.herokuapp.com/?user=TeliShubham-12&theme=radical&include_all_commits=true&count_private=true
   
