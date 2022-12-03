@@ -16,7 +16,49 @@
 
   ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TeliShubham-12&theme=algolia" alt="TeliShubham-12"  /></p>
+<br>
+<br>
+<br>
+<br>
 
+<!--
+<details>
+  <summary>:zap: Github Stats</summary>
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TeliShubham-12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shubham's Github Stats">
+</p>
+<br>
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeliShubham-12&show_icons=true&hide_border=true&theme=radical">
+</p>
+</details> -->
+
+
+### :zap: Github Stats
+
+  <img align="left" src="https://github-readme-stats.TeliShubham-12.vercel.app/api?username=TeliShubham-12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shubham's Github Stats" width="60%">
+  
+<img src="https://github-readme-stats.TeliShubham-12.vercel.app/api/top-langs/?username=TeliShubham-12&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Shubham's Top Languages">
+
+
+
+<!-- stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TeliShubham-12&show_icons=true&hide_border=true&theme=dark)
+![Shubham's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TeliShubham-12&show_icons=true&hide_border=true")-->
+
+<!-- repos
+<a href="https://github.com/TeliShubham-12/Readers-Cabin">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TeliShubham-12&repo=Readers-Cabin&theme=dark" />
+</a>
+<a href="https://github.com/TeliShubham-12/JPMorgan-Chase-Virtual-Internship">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TeliShubham-12&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
+</a>
+<a href="https://github.com/TeliShubham-12/Python-for-Everybody-Specialization">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TeliShubham-12&repo=Python-for-Everybody-Specialization&theme=dark" />
+</a>
+-->
+
+<br>
 
 
 ## 🛠️ My Skills
