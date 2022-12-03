@@ -17,23 +17,19 @@
   ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TeliShubham-12&theme=algolia" alt="TeliShubham-12"  /></p>
 <br>
-<br>
-<br>
-<br>
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-
+<p align="center">
 ## GitHub Stats
 |                                                                     Shubham's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
 | ![Shubham's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=TeliShubham-12&theme=react-dark&hide_border=true&area=true) |
-| ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=TeliShubham-12&show_icons=true&theme=algolia)              | 
-| ![Shubham's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TeliShubham-12&theme=algolia)                    | 
+| ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=TeliShubham-12&show_icons=true&theme=algolia)                      | 
     
 |                                                                                                      Shubham's Stars                                                                                                       |                                                                                                                    |      
 |:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------------------------------------------:|
 | ![Github Stars](https://github-readme-stats.vercel.app/api?username=TeliShubham-12&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) |
-
+</p align="center">
+  
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
