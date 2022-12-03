@@ -11,6 +11,8 @@
 - 📫 How to reach me ...
 
 
+---------------
+
   ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TeliShubham-12&theme=algolia" alt="TeliShubham-12"  /></p>
 
