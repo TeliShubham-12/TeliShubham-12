@@ -11,31 +11,10 @@
 - 📫 How to reach me ...
 
 
-
-
-
-
   ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TeliShubham-12&theme=algolia" alt="TeliShubham-12"  /></p>
 
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TeliShubham-12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shubham's Github Stats">
-</p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeliShubham-12&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
 
-
-### :zap: Github Stats
-
-  <img align="left" src="https://github-readme-stats.TeliShubham-12.vercel.app/api?username=TeliShubham-12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt=Shubham's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.TeliShubham-12.vercel.app/api/top-langs/?username=Sumanth-TeliShubham-12&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Shubham's Top Languages">
 
 ## 🛠️ My Skills
 
