@@ -18,12 +18,11 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TeliShubham-12&theme=algolia" alt="TeliShubham-12"  /></p>
 <br>
 
-<p align="center">
 ## 🔥 GitHub Stats
-<                                                                     Shubham's Stats                                                      
+    Shubham's Stats                                                      
  ![Shubham's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=TeliShubham-12&theme=react-dark&hide_border=true&area=true) 
  ![Shubham's github stats](https://github-readme-stats.vercel.app/api?username=TeliShubham-12&show_icons=true&theme=algolia)                       
-           ></p>   
+          
   
   
  ![Github Stars](https://github-readme-stats.vercel.app/api?username=TeliShubham-12&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=algolia) 
