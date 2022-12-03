@@ -20,45 +20,10 @@
 <br>
 <br>
 <br>
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+<img src = "https://camo.githubusercontent.com/18ce5f699367154406817e838d922e74f1d53abea421410b381a64f2c1725af9/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4168337a4848376876735342322f67697068792e676966" >
 
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TeliShubham-12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shubham's Github Stats">
-</p>
-<br>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeliShubham-12&show_icons=true&hide_border=true&theme=radical">
-</p>
-</details> -->
-
-
-### :zap: Github Stats
-
-  <img align="left" src="https://github-readme-stats.TeliShubham-12.vercel.app/api?username=TeliShubham-12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Shubham's Github Stats" width="60%">
-  
-<img src="https://github-readme-stats.TeliShubham-12.vercel.app/api/top-langs/?username=TeliShubham-12&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Shubham's Top Languages">
-
-
-
-<!-- stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TeliShubham-12&show_icons=true&hide_border=true&theme=dark)
-![Shubham's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=TeliShubham-12&show_icons=true&hide_border=true")-->
-
-<!-- repos
-<a href="https://github.com/TeliShubham-12/Readers-Cabin">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TeliShubham-12&repo=Readers-Cabin&theme=dark" />
-</a>
-<a href="https://github.com/TeliShubham-12/JPMorgan-Chase-Virtual-Internship">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TeliShubham-12&repo=JPMorgan-Chase-Virtual-Internship&theme=dark" />
-</a>
-<a href="https://github.com/TeliShubham-12/Python-for-Everybody-Specialization">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=TeliShubham-12&repo=Python-for-Everybody-Specialization&theme=dark" />
-</a>
--->
-
-<br>
 
 
 ## 🛠️ My Skills
