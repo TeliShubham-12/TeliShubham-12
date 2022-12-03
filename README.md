@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
+
+
+
+<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+
   ## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=TeliShubham-12&theme=algolia" alt="TeliShubham-12"  /></p>
 
@@ -25,7 +31,6 @@
   <img align="left" src="https://github-readme-stats.TeliShubham-12.vercel.app/api?username=TeliShubham-12&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt=Shubham's Github Stats" width="60%">
   
 <img src="https://github-readme-stats.TeliShubham-12.vercel.app/api/top-langs/?username=Sumanth-TeliShubham-12&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Shubham's Top Languages">
-----!>
 
 ## 🛠️ My Skills
 
