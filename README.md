@@ -8,10 +8,7 @@
 
 
 
-<!---
-NavaleAbhay/NavaleAbhay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
 
 
 
@@ -58,10 +55,10 @@ You can click the Preview link to take a look at your changes.
 
 <br/>
 <!-- <img  alt="Abhay Github Stats"  /></a><br/> -->
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=NavaleAbhay&theme=radical&hide_border=true" /></a>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=TeliShubham-12&theme=radical&hide_border=true" /></a>
   <br/>
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NavaleAbhay&theme=radical&layout=compact" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeliShubham-12&theme=radical&layout=compact" /></a>
 
 
 
